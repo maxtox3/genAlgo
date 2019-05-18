@@ -1,0 +1,15 @@
+Server1|x=32|y=46|
+Server2|x=25|y=46|
+Server3|x=33|y=69|
+Server4|x=22|y=23|
+Server5|x=45|y=14|
+Server6|x=61|y=5|
+Server7|x=70|y=58|
+Server8|x=89|y=35|
+Server9|x=88|y=85|
+Server10|x=94|y=33|
+Server11|x=75|y=66|
+Server12|x=27|y=89|
+Server13|x=35|y=41|
+Server14|x=30|y=40|
+Server15|x=62|y=66|

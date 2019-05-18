@@ -1,0 +1,8 @@
+Server1|x=322|y=465|
+Server2|x=235|y=467|
+Server3|x=333|y=69|
+Server4|x=822|y=203|
+Server5|x=845|y=194|
+Server6|x=161|y=56|
+Server7|x=770|y=578|
+Server8|x=489|y=395|
