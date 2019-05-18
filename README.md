@@ -1,1 +1,1 @@
-# Генетический алгоритм
+# Genetic algorithm
